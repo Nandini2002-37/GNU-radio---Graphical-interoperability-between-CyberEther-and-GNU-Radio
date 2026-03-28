@@ -1,0 +1,13 @@
+/usr/local/lib/cmake/gnuradio-cyberether/gnuradio-cyberetherConfig.cmake
+/usr/local/include/gnuradio/cyberether/api.h
+/usr/local/lib/python3.12/dist-packages/gnuradio/cyberether/__init__.py
+/usr/local/lib/python3.12/dist-packages/gnuradio/cyberether/__init__.pyc
+/usr/local/lib/python3.12/dist-packages/gnuradio/cyberether/__init__.pyo
+/usr/local/lib/python3.12/dist-packages/gnuradio/cyberether/freqsink.py
+/usr/local/lib/python3.12/dist-packages/gnuradio/cyberether/freqsink.pyc
+/usr/local/lib/python3.12/dist-packages/gnuradio/cyberether/freqsink.pyo
+/usr/local/lib/python3.12/dist-packages/gnuradio/cyberether/time_sink.py
+/usr/local/lib/python3.12/dist-packages/gnuradio/cyberether/time_sink.pyc
+/usr/local/lib/python3.12/dist-packages/gnuradio/cyberether/time_sink.pyo
+/usr/local/share/gnuradio/grc/blocks/cyberether_freqsink.block.yml
+/usr/local/share/gnuradio/grc/blocks/cyberether_time_sink.block.yml
